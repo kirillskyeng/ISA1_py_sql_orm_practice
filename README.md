@@ -19,3 +19,6 @@
 1. создать новый файл с описанием задачи и assert в **_task_list/sql/task_N.py**
 2. дать описание таблиц или описать задачу для northwind
 2. закомитить на github
+
+## Django ORM
+to be filled
