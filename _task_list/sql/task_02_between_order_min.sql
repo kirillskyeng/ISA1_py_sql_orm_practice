@@ -1,3 +1,5 @@
+-- ИСПОЛЬЗУЯ БД NORTHWIND
+
 -- 1. Выбрать все заказы из стран France, Austria, Spain
 
 
